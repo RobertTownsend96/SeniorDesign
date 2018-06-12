@@ -1,5 +1,5 @@
 # SeniorDesign
-UCONN Senior Design Project in conjunction with Hubbell Inc
+UCONN Senior Design Project in conjunction with Hubbell Inc.
 
 These documents are a culmination of work in conjuction with Hubbell Inc. and University of Connecticut students 
 Jim Lin, Noah Lyke, Kyle Mullins, and Robert Townsend. These documents have been approved for publishing by Hubbell Inc. 
